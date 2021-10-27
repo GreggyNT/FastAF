@@ -7,7 +7,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61964fde-0c9a-415a-9db5-996868c00d37" name="Changes" comment="dd" />
+    <list default="true" id="61964fde-0c9a-415a-9db5-996868c00d37" name="Changes" comment="dd">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4c1c2806ff748f971ec280e26489812f56b1c4dd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/54f4510b91c2683595ce2e8f36b90b301f51d8d3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5ce51de05ce37a77dfc9c2164ffc3ae88341a6cb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f889ea3972d24249218ec2acacc60a25b1fe8be" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f77cd4ebbb11461fc5afb3c78a384ebd34b017e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8d96649614bd84192f3496ef7d33bab1d1e5ec1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6afadc6ea4a7aabc68c4585d45e7649ba328d25" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb2ae98ff1fc94ae12a6ac23ee55c5cca9185e19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Race/race.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Race/src/Race/Game/Bonuses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Race/src/Race/Game/FrameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Race/src/Race/Game/GameLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Race/src/Race/Game/KeyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Race/src/Race/Game/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Race/src/Race/Game/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Race/src/Race/Game/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Race/src/Race/Game/Writer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Race/src/Race/Images/BackGround.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Race/src/Race/Images/Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Race/src/Race/Images/Player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Race/src/Race/Images/Wall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastAF-master/.github/workflows/build.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastAF-master/FastAF.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastAF-master/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastAF.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FastAF.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Cchken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CchkenTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Cchken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CchkenTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,14 +56,22 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1zVE8P62kzmTB8zOmrttZ5eQh6o" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -37,36 +85,103 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled" />
+    <property name="jdk.selected.JAVA_MODULE" value="16" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Литература\JAva\Race\src\Images" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Литература\JAva\Race\src\Images" />
+      <recent name="C:\Users\User\Desktop\Литература\JAva\Race\src\Game" />
+      <recent name="C:\Users\User\Desktop\Литература\JAva\Race\src" />
+      <recent name="C:\Users\User\Desktop\Литература\JAva\untitled\src\main\java" />
+      <recent name="C:\Users\User\Desktop\Литература\JAva" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="CchkenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.1">
+    <configuration name="1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Race.Game.Main" />
       <module name="FastAF" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CchkenTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Race.Images.Game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game.Main" />
+      <module name="FastAF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game.Main" />
+      <module name="FastAF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Race.Images.Game.Main" />
+      <module name="FastAF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Race.Images.Game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="гонки2D.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/гонки2D.jar" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.1" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="JAR Application.гонки2D.jar" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CchkenTest" />
+        <item itemvalue="JAR Application.гонки2D.jar" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +285,28 @@
       <option name="project" value="LOCAL" />
       <updated>1635095181477</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="dd">
+      <created>1635357718020</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1635357718020</updated>
+    </task>
+    <task id="LOCAL-00015" summary="dd">
+      <created>1635358023823</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1635358023823</updated>
+    </task>
+    <task id="LOCAL-00016" summary="dd">
+      <created>1635358082914</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1635358082914</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,5 +325,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="dd" />
     <option name="LAST_COMMIT_MESSAGE" value="dd" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="JAva" type="b2602c69:ProjectViewProjectNode" />
+        <item name="JAva" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
   </component>
 </project>
